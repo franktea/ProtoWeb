@@ -1,12 +1,12 @@
 /*
- * visual_proto.h
+ * proto_web.h
  *
  *  Created on: May 14, 2019
  *      Author: frank
  */
 
-#ifndef VISUAL_PROTO_H_
-#define VISUAL_PROTO_H_
+#ifndef PROTO_WEB_H_
+#define PROTO_WEB_H_
 
 #include <Wt/WApplication.h>
 #include <Wt/WBreak.h>
@@ -136,4 +136,4 @@ private:
 	const FieldDescriptor* fd_;
 };
 
-#endif /* VISUAL_PROTO_H_ */
+#endif /* PROTO_WEB_H_ */
